@@ -24,7 +24,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here]("")
+- Solution URL: [Add solution URL here]("https://github.com/Peacepac/alternate-image")
 - Live Site URL: [Live site]("")
 
 ## My process
